@@ -5,8 +5,7 @@
 
 ## 🧭 Descrição Geral
 
-Este repositório contém o projeto desenvolvido no âmbito da unidade curricular **Processamento de Imagem e Visão**, do curso de **Licenciatura em Engenharia Informática e Multimédia (LEIM)**, no **Instituto Superior de Engenharia de Lisboa (ISEL)**.
-Aqui é possível encontrar todos os projetos/exercícios implementados ao longo do semestre
+Este repositório contém os projetos projetos/exercícios desenvolvidos no âmbito da unidade curricular **Processamento de Imagem e Visão**, do curso de **Licenciatura em Engenharia Informática e Multimédia (LEIM)**, no **Instituto Superior de Engenharia de Lisboa (ISEL)**.
 
 ---
 
